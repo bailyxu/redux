@@ -36,6 +36,7 @@ const ItemDetail = ({ itemDetail }) => {
                     translateList
                 }
             </p>
+            <p>hello world</p>
         </div>
     );
 }
